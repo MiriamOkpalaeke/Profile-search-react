@@ -22,7 +22,7 @@ const Profile = () => {
       <div>
       <li className="card-wrapper">
     <div className="image">
-    <img src={user.picture}  alt='user picture'/>
+    <img src={user.picture}  alt='user'/>
     </div>
   
   <div className="text">
